@@ -92,5 +92,5 @@ e.g message:
     "message": "I need to update my address"
 
 
-By Ahmed Almalki and Osama Abbas
+Developed By Ahmed Almalki and Osama Abbas
 =======
